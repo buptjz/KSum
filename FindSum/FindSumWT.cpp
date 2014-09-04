@@ -73,7 +73,6 @@ void JZfind_sum(){
     for (int i = 89; i >= 79; i--) {
         WTtarget -= all_num[i];
     }
-    
     for (int i = 78; i > 29; i--) {
         numbers.push_back(all_num[i]);
     }
